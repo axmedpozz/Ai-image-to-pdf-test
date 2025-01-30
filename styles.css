@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg, #ff7eb3, #ff758c);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 50px 0;
+}
+
+.upload-box {
+    border: 2px dashed white;
+    padding: 20px;
+    cursor: pointer;
+    margin: 20px auto;
+    width: 300px;
+}
+
+button {
+    background: white;
+    color: #ff4b5c;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
